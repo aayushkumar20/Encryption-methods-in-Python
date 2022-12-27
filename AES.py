@@ -48,7 +48,7 @@ if __name__ == '__main__':
     print("This Project is implemented by Aayush Kumar on date 24th Dec, 2022")
     print("20BCY10045")
     # Let the message be "Aayush Kumar"
-    message = "Aayush Kumar 20BCY10045"
+    message = "Aayush_20BCY10045"
     # print the original message
     print("Original Message: ", message)
     encrypt = Encrypt(message)
