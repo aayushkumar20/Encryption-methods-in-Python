@@ -1,6 +1,5 @@
 # Write a python program to implement RSA algorithm
 # functionality 
-# ask for a message from the user
 # generate public and private keys
 # encrypt the message using public key
 # decrypt the cipher text using private key
@@ -24,7 +23,7 @@ class RSA:
     # constructor
     def __init__(self):
         # message to be encrypted
-        self.message = "Aayush Kumar (20BCY10045))"
+        self.message = "Aayush_20BCY10045"
         # p and q are two random prime numbers
         self.p = 0
         self.q = 0
